@@ -16,7 +16,7 @@ O Frontend do projeto se encontra em desenvolvimento.
 Clone o projeto
 
 ```bash
-  git clone https://github.com/CarolSilv/AppQuizApi.git
+  git clone https://github.com/caahthenerd/AppQuizApi.git
 ```
 
 Entre no diretório do projeto
@@ -59,4 +59,4 @@ Segue alguns projetos relacionados
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolaynesantsilva/)
 
 
-Desenvolvido por [@caahthenerd](https://github.com/caahthenerd) 2023-2024©
+🌟 Desenvolvido por [@caahthenerd](https://github.com/caahthenerd) 2023-2024©
