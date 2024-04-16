@@ -62,4 +62,5 @@ Segue alguns projetos relacionados
 [![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/2G6RA73IJWW3H1)
 
 
-<h5 align=center>🌟 Desenvolvido por [@caahthenerd](https://github.com/caahthenerd) 2023-2024© </h5>
+
+🌟 Desenvolvido por [@caahthenerd](https://github.com/caahthenerd) 2023-2024©
